@@ -1,0 +1,5 @@
+{
+  "name": "Math Synthesis Quest",
+  "description": "A tactical number-merging puzzle game where you synthesize numbers to match targets using arithmetic operators in a dynamic falling-block grid.",
+  "requestFramePermissions": []
+}
